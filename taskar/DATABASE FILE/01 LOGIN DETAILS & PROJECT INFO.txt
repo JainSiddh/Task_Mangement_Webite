@@ -1,0 +1,12 @@
+**Database Name: etmsh**
+
+**Employee Login Details** 
+
+Username: user1
+Password: user1
+
+**Admin Login Details**
+
+Username: admin
+Password: admin123
+
